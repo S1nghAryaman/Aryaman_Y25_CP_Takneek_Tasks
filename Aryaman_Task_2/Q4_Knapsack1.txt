@@ -1,2 +1,2 @@
-My approach in this was basically to first find the expected value for each item(value/weight), and using that expected value, build out an array of them, thenceforth sort
-that array and use that to basically get as close to the weight limit as possible(perhaps even completely fulfill it in some cases).
+My approach in this was basically to first find the expected value for each item(value/weight), and using that expected value, build out an array of them, thenceforth sort that array and use that to basically get as close to the weight limit as possible(perhaps even completely fulfill it in some cases).
+Again, I faced some issues in this due to my limited knowledge of how to make use of arrays in C++, I have attached my code which I think with some tinkering could be made viable.
