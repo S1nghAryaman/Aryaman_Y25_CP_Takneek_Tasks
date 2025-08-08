@@ -1,10 +1,4 @@
-#include <iostream>
-#include <list>
-#include <numeric>
-#include <cmath>
-#include <vector>
-#include <algorithm>
-#include <set>
+#include <bits/stdc++.h>
 using namespace std;
 int main(){
     int n;
