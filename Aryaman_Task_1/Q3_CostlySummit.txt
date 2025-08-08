@@ -1,0 +1,8 @@
+One thing that I MUST NOTE IS THAT MY SOLUTION IS WRONG, I believe my methodology/logic is correct, however my implementation is incorrect due to me being fairly new to
+C++, I just had to find a way to remove only one occurence of *a* max value, even if multiple existed, however I am unable to find a way as I have limited time to go over
+vectors and all that.
+Regardless, my logic is comparing c to n(n being the total length of the string at any point), now if c<n, then clearly just take the element with most occurences,
+for example: in AAABCCDE, A has the most occurences(3), and say c is 4, so the new n = n-3, and now we do the same comparison of c and n, if now c>n(it isn't but
+just as a case), now we know that the most optimal way forward is to hire a translator for all remaining people. Why this works? It works because, c has a very
+simple threshold requirement to meet, it must just give an overall sum lower than n*(n+1)/2, and hence as the occurence of any non-null element >=1, for it to be smaller
+it must merely be less than n, such that the rest of the sum from 1 to n-1 ends up being lesser than the sum of all natural numbers between 1 and n.
