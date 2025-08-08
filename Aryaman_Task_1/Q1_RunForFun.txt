@@ -1,0 +1,2 @@
+This is a pretty simple question, essentially it can be done via division ignoring the remainders. I did the same thing just through subsequent subtraction from y 
+in x units. Nothing necessarily fancy is required here.
