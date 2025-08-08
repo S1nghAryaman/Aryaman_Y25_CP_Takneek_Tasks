@@ -1,0 +1,3 @@
+// pre solving thinking
+Okay so basically, I believe that the path having the least MEAN DEVIATION would be the most optimal path, that is because comparing subsequent terms is equivalent to
+comparing with the mean. The only problem with this approach is that the order of terms matter a LOT, like it can significantly change the final answer.
