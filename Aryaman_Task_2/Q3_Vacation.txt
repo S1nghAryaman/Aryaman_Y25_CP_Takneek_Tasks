@@ -1,0 +1,2 @@
+In this question, essentially our short term approach is to maximise day to day happiness, this of course becomes an issue when say two activities give the same amount of happiness, in that scenario, we can simply
+choose one to hold more value in the future via taking a look at the future inputs, and comparing the maxima of the two, and choosing the activity which would be on average less valuable in the future.
