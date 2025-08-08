@@ -1,0 +1,3 @@
+My intuition told me that in this question, we essentially just had to make cases dependent on how many unhappy customers we had/what type of customers they were, ie
+their demands being x, y or z. As z can be transformed into y and x, and y can be transformed into x, we essentially take an approach which would first go through
+making sure we have exploited the former constraint before moving onto the next. 
