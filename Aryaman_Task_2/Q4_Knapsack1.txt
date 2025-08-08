@@ -1,0 +1,2 @@
+My approach in this was basically to first find the expected value for each item(value/weight), and using that expected value, build out an array of them, thenceforth sort
+that array and use that to basically get as close to the weight limit as possible(perhaps even completely fulfill it in some cases).
